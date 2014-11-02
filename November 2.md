@@ -6,7 +6,9 @@ The most important decisions I made this week involved finalizing my project ide
 
 I thought more thoroughly about what may make a reasonable-sized project for the time frame of this final project, and designed my project to have a reachable base goal with a variety of features I can add in as time allows.
 
-After researching various parser tools for Python such as PyPEG and PyPy, I decided to implement the DSL in Scala with the Packrat Parser we previously used. The Python parsers all have much less customizable syntax error messages that leaves very little room for producing helpful error messages. The overhead of learning a new parsing library may also not make up for the ease of Python over Scala in the evaluator phase of the project.
+After researching various parser tols for Python such as PyPEG and PyPy, I decided to implement the DSL in Scala with the Packrat Parser we previously used. The Python parsers all have much less customizable syntax error messages that leaves very little room for producing helpful error messages. The overhead of learning a new parsing library may also not make up for the ease of Python over Scala in the evaluator phase of the project.
+
+I did some preliminary brain-storming for what's needed to evaluate a program and sketched out what a DP table representation may look like. I left some quick notes in the [project wiki](https://github.com/SCheng4/DSL-Project-Sisi-Cheng/wiki).
 
 ## Questions
 
@@ -31,6 +33,7 @@ team, how did you share the labor?**
 2 hours - exploring alternative host languages
 0.5 hours - setting up project files in Scala 
 0.5 hours - project notebook
+1.5 hour - brainstorming design and implementation ideas; researched topo sort in Scala; added project wiki.
 
 ## Post-critique summary
 
