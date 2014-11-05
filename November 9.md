@@ -18,8 +18,10 @@ are you evaluating your design and implementation?**
 **What questions do you have for your critique partners? How can they best help
 you?**
 
-**How much time did you spend on the project this week? If you're working in a
-team, how did you share the labor?**
+**How much time did you spend on the project this week?**
+
+1 hr - critique
+0.5 hr - post-critique
 
 ## Post-critique summary
 
