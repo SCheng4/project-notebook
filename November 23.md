@@ -42,7 +42,7 @@ you?**
 
 Do you have any feedback on how 1D programs are handled currently, from parsing to evaluating to output? Do you foresee any difficulty when I expand my project to inlude 2D programs?
 
-If you have the chance, could you download my project and try out a few examples? (I can help with setting it up if we have time Monday in class.) If not, could you help think of any cases of incorrect programs that I may have missed? A list of the errors I've come up with and handled is on the [project wiki](https://github.com/SCheng4/DSL-Project-Sisi-Cheng/wiki)
+If you have the chance, could you download my project and try out a few examples? (I can help with setting it up if we have time Monday in class.) If not, could you help think of any cases of incorrect programs that I may have missed? A list of the errors I've come up with and handled is on the [project wiki](https://github.com/SCheng4/DSL-Project-Sisi-Cheng/wiki). The wiki also contains a section with instructions on how to run my program.
 
 **How much time did you spend on the project this week?**
 1 hr - critique
